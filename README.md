@@ -22,4 +22,19 @@ Logistic Regression model was tuned with different regularization parameters, an
 - **Manual Rule-based Classifier Accuracy:** 96.43%  
 - **Final Logistic Regression Model (C=2) Test Accuracy:** 97.37%
 
+### Exploratory Data Analysis  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/060702a1-9aed-44de-95b1-a80e38d66165" alt="pairplot_species" width="800" />
+</p>
+
+### Model Prediction Accuracy on Test Data  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4827a19a-a908-4f86-aaa3-ef2643227cd3" alt="test_predictions_correct_incorrect" width="600" />
+</p>
+
+### Confusion Matrix of SVM Model on Test Data  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/59a7309c-1f65-47e7-9bec-ee91b22ca816" alt="svm_confusion_matrix" width="600" />
+</p>
+
 
