@@ -29,8 +29,10 @@ Logistic Regression model was tuned with different regularization parameters, an
 
 ### Model Prediction Accuracy on Test Data  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7c600e5c-767d-4a33-9e49-9d38fac653fb" alt="test_predictions_correct_incorrect" width="600" />
+  <img src="https://github.com/user-attachments/assets/2755a9eb-5a17-48b9-9206-7c1c96a29836" alt="test_predictions_correct_incorrect" width="600" />
 </p>
+
+
 
 ### Confusion Matrix of SVM Model on Test Data  
 <p align="center">
